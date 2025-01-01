@@ -37,6 +37,6 @@ char '%c' : %u times
 ### Client Output
 The client will print the number of printable characters received from the server in the following format:
 ```sh
-# of printable characters: %u
+number of printable characters: %u
 ```
 
